@@ -1,0 +1,30 @@
+SEO PLAN — ContaPortugal
+Primary keywords:
+- calculadora Portugal
+- calculadora salário líquido Portugal
+- simulador salário líquido 2026
+- calculadora recibos verdes 2026
+- simulador IRS Portugal
+- calculadora Segurança Social trabalhador independente
+- calculadora custo carro Portugal
+- calculadora renda Portugal
+- calculadora custo comprar casa Portugal
+- simulador IMT Portugal 2026
+- calculadora poupança solar Portugal
+
+Long-tail clusters:
+Salary: "quanto vou receber líquido Portugal", "salário bruto líquido 2026 Portugal"
+Freelance: "quanto pago de IRS recibos verdes", "recibos verdes quanto sobra"
+Car: "quanto custa ter carro em Portugal", "custo por km carro Portugal"
+Housing: "quanto posso pagar de renda Portugal", "custos comprar casa Portugal"
+Solar: "quanto poupa 4kw solar Portugal", "calculadora painéis solares Portugal"
+
+Technical SEO:
+- Keep one unique title + meta description per tool page.
+- Create dedicated URLs/pages for each calculator rather than relying only on homepage anchors.
+- Add FAQ schema and BreadcrumbList schema where appropriate.
+- Add Organization/WebSite structured data.
+- Publish Portuguese (pt-PT) first; add English later.
+- Link every guide to its relevant calculator.
+- Add a visible "Atualizado em" date and source notes for tax-sensitive calculators.
+- Do not claim official tax results unless independently verified against current Portuguese official sources.
